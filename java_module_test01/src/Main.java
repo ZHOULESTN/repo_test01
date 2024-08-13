@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Hello world!888, VPN NonBasis");
         System.out.println("Hello world!999, VPN NonBasis");
         System.out.println("Hello world!104, VPN NonBasis");
+        System.out.println("Hello world!105, VPN NonBasis");
     }
 }
